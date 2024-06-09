@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Other partners that wishes to create and innovate within frontend developing.**
 
-- 📝 I regularly write articles on [www.kodingaston.com](www.kodingaston.com)
+- 📝 I regularly write articles on [www.kodingaston.com](https://www.kodingaston.com)
 
 - 💬 Ask me about **HTML, CSS, JS, REACTJS, C#, C++, Python, etc.**
 
