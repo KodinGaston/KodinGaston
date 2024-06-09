@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, REACTJS, C#, C++, Python, etc.**
 
-- 📫 How to reach me **kodingaston@gmail.com**
+- 📫 How to reach me **contact@kodingaston.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kodingaston/](https://www.linkedin.com/in/kodingaston/)
 
