@@ -4,7 +4,7 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=✨KodinGaston✨;+►Web+Developer◄;||Frontend+Developer||;☼Freelancer☼;♪♫-System+Developer_♪♫;"alt="Headline"/>
     </div>  
-<p align="center"><a href="https://bit.ly/KodinGaston">Portfolio↗️</a></p>
+<p align="center"><a href="https://kodingaston.com/">Portfolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
@@ -18,7 +18,7 @@
 
  📫 Reach out to me: **CONTACT@KODINGASTON.COM**
 
- ✍ You can find my resume [here](https://drive.google.com/file/d/1TSJY5LPEqgoR7FPXrZrc5dwyw9deLWYo/view?usp=sharing)
+ ✍ You can find my resume [here](https://drive.google.com/file/d/1j6PEsd9xFB5CiGdJDqGdcgv_ElS_Iyoy/view?usp=sharing)
 
  ⚡ Fun fact: **My first line of code was not "Hello World!"**
 
