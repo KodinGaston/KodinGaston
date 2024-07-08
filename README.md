@@ -20,6 +20,8 @@
 
  ✍ You can find my resume [here](https://drive.google.com/file/d/1j6PEsd9xFB5CiGdJDqGdcgv_ElS_Iyoy/view?usp=sharing)
 
+ ✍ My personal letter [Swedish only] [here](https://drive.google.com/file/d/1N_pk2xd_xe99r6dl8mUNROXTlZV5X_4b/view?usp=sharing)
+
  ⚡ Fun fact: **My first line of code was not "Hello World!"**
 
  <p  align="center">
