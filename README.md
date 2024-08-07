@@ -7,7 +7,7 @@
 <p align="center"><a href="https://kodingaston.com/" target="_black">Portfolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
+<picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVhZ2NzbXp5dzJ1ZDBtcGhlOGl1Y3F5dGNweWRzZDRhOHkybWs0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7ziKpP2RqSQhRmW2MR/giphy.gif" width = 90px align="center"></picture> <br> **I'm Gastón AS**
 
 
  🔭 I’m currently working on a very cool proyect! 
