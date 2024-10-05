@@ -18,9 +18,9 @@
 
  📫 Reach out to me: **CONTACT@KODINGASTON.COM**
 
-✍ You can download my resume here ► [English](https://drive.google.com/uc?export=download&id=1o6DjcDjpm5AK8mlPUKnMt73py3815Jve)
+✍ You can download my resume ► [English](https://drive.google.com/uc?export=download&id=1ZzHXiGnSUKi6Pa8Pp3FMLsNeCs1fjiAK)
 
-✍ Här kan du ladda ner min CV ► [Svenska](https://drive.google.com/uc?export=download&id=1sIPtc7AhTTa5yrEli0A9gvpw0xs_MvLL)
+✍ Här kan du ladda ner min CV ► [Svenska](https://drive.google.com/uc?export=download&id=1VXdYWJCppO1fwSlk25bKRhdHM4qRhoFv)
 
 ⚡ Fun fact: **My first line of code was not "Hello World!" ☺**
 
