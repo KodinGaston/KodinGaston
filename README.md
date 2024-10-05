@@ -18,11 +18,11 @@
 
  📫 Reach out to me: **CONTACT@KODINGASTON.COM**
 
- ✍ You can find my resume ► [English] [here](https://docs.google.com/document/d/1o6DjcDjpm5AK8mlPUKnMt73py3815Jve/edit?usp=sharing&ouid=113860118312620384726&rtpof=true&sd=true)
+✍ You can find my resume ► <a href="https://docs.google.com/document/d/1o6DjcDjpm5AK8mlPUKnMt73py3815Jve/edit?usp=sharing&ouid=113860118312620384726&rtpof=true&sd=true" target="_blank">[English]</a>
 
- ✍ Här nås min CV ► [Swedish] [here](https://docs.google.com/document/d/1sIPtc7AhTTa5yrEli0A9gvpw0xs_MvLL/edit?usp=sharing&ouid=113860118312620384726&rtpof=true&sd=true)
+✍ Här nås min CV ► <a href="https://docs.google.com/document/d/1sIPtc7AhTTa5yrEli0A9gvpw0xs_MvLL/edit?usp=sharing&ouid=113860118312620384726&rtpof=true&sd=true" target="_blank">[Svenska]</a>
 
- ⚡ Fun fact: **My first line of code was not "Hello World!" ☺**
+⚡ Fun fact: **My first line of code was not "Hello World!" ☺**
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
