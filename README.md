@@ -18,9 +18,9 @@
 
  📫 Reach out to me: **CONTACT@KODINGASTON.COM**
 
-✍ You can find my resume ► <a href="https://docs.google.com/document/d/1o6DjcDjpm5AK8mlPUKnMt73py3815Jve/edit?usp=sharing&ouid=113860118312620384726&rtpof=true&sd=true" target="_blank">[English]</a>
+✍ You can download my resume here ► [English](https://drive.google.com/uc?export=download&id=1o6DjcDjpm5AK8mlPUKnMt73py3815Jve)
 
-✍ Här nås min CV ► <a href="https://docs.google.com/document/d/1sIPtc7AhTTa5yrEli0A9gvpw0xs_MvLL/edit?usp=sharing&ouid=113860118312620384726&rtpof=true&sd=true" target="_blank">[Svenska]</a>
+✍ Här kan du ladda ner min CV ► [Svenska](https://drive.google.com/uc?export=download&id=1sIPtc7AhTTa5yrEli0A9gvpw0xs_MvLL)
 
 ⚡ Fun fact: **My first line of code was not "Hello World!" ☺**
 
